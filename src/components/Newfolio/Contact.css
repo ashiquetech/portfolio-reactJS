@@ -1,0 +1,34 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    margin: 200px 300px 100px;
+    align-items: center !important;
+    padding-left: 300px;
+    float: right;
+    margin-left: 300px !important;
+}
+.contact>h1{
+    color: white;
+    margin-left: 400px;
+    align-items: center;
+    display: flex;
+}
+.contact-container{
+    color: white;
+    border: 1px solid white;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    margin-top: 20px;
+    padding-left: 300px;
+
+}
+.contact-container>p >span{
+    color: orangered;
+}
